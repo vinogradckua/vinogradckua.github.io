@@ -167,6 +167,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     position: relative;
     top: 2px;
 }
+
 #login-dialog {
 	background: white;
 	padding: 20px 30px;
